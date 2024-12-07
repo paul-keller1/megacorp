@@ -1,6 +1,4 @@
-  partner list
-++<<<<<<< HEAD
- +SalesInc
-++=======
-+ 
-++>>>>>>> delete_records
+partner list
+SalesInc
+TheStartup
+ClosedML
